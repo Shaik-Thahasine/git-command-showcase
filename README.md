@@ -1,17 +1,17 @@
 # git-command-showcase
-#Clone Repository
+Clone Repository
    git clone <repository url>
-#Check Status
+Check Status
    git status
-#Stage Files
+Stage Files
    git add.
-#Commit Changes
+Commit Changes
    git commit -m "message"
-#Push Changes
+Push Changes
    git push 
-#Pull Latest Changes
+Pull Latest Changes
    git pull
-#Create Branch
+Create Branch
     git checkout -b branch-name
-3Git Stash
+Git Stash
      git stash
